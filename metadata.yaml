@@ -1,0 +1,33 @@
+_repo: The-Longest-Journey_2604
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forster, E. M. (Edward Morgan)
+    alias: Forster, Edward Morgan
+    birthdate: 1879
+    deathdate: 1970
+    gutenberg_agent_id: '975'
+    url: http://www.gutenberg.org/2009/agents/975
+    wikipedia: http://en.wikipedia.org/wiki/E._M._Forster
+description: "The Longest Journey (1907) is a bildungsroman by E. M. Forster.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2001-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2604'
+  wikidata: Q15999894
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- GITenberg
+title: The Longest Journey
+url: http://www.gutenberg.org/ebooks/2604
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Longest_Journey_(novel)
